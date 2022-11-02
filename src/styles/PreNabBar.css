@@ -1,0 +1,23 @@
+.prenav{
+    color: white;
+    background-color: rgb(36, 34, 34);
+    display: grid;
+    grid-template-columns: 5fr 2fr;
+}
+.prenav > div{
+    padding: 0.5vmax 4vmax;
+}
+.prenav > div > span{
+    color: rgb(211, 211, 197 , 0.6888);
+    font-size: 0.8vmax;
+    font-weight: 100;
+}
+.prenav>div>a{
+    color: rgb(187, 191, 194);
+    margin: 1vmax;
+    text-decoration: none;
+    font-size: 0.9vmax;
+}
+.prenav>div>a:hover{
+    color: rgb(230, 131, 32);
+}
