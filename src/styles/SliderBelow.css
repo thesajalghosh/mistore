@@ -1,0 +1,22 @@
+.allimages{
+    margin-top: 1.5vmax;
+    
+    
+    text-align: center;
+    
+
+}
+
+.images{
+
+    list-style: none;
+    
+
+
+}
+.images li{
+    display: inline-block;
+    margin: 0.5vmax;
+    
+   
+}
