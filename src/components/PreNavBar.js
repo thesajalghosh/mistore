@@ -6,7 +6,7 @@ const PreNavBar = () => {
       <>
       <div className="prenav">
     <div>
-      <a href="https://www.mi.com/in/">Xiaomi India</a> <span>|</span>
+      <a href="https://www.mi.com/in/">Xiaomi Indian</a> <span>|</span>
       <a href="https://in.event.mi.com/in/install-mi-store"> Get MI Store App</a> <span>|</span>
       <a href="https://www.mi.com/in/service/help/#category_id=1&pagenum=1&channel=1">Online Help</a> <span>|</span>
       <a href="https://www.mi.com/in/service/authorized_stores/">Retail Store</a>
