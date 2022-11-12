@@ -1,0 +1,15 @@
+.mainContainer{
+    display: flex;
+    flex-direction: row;
+    gap: .5%;
+    align-items: center;
+    justify-content: center;
+}
+
+.upper{
+    display: flex;
+    flex-direction: row;
+    gap: 1%;
+}
+
+

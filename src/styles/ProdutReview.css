@@ -1,0 +1,16 @@
+.bothimg{
+    background-color: white;
+    
+}
+.head{
+    margin-left: 4%;
+    font-size: 1.2rem;
+    color: rgb(92, 82, 82);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.secondline{
+    display: flex;
+    gap: 1.9rem;
+    margin-left: 4%;
+    font-size: 0.9rem;
+}

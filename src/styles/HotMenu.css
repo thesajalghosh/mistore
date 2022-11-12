@@ -1,0 +1,19 @@
+.menu li{
+    
+    list-style: none;
+    display: inline-block;
+    padding: 0.5% 2%;
+    text-align: center;
+    font-size: medium;
+    
+}
+
+.menu{
+    text-align: center;
+}
+
+.menu li:hover{
+    color: rgb(238, 157, 8);
+    
+}
+    
