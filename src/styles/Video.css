@@ -1,0 +1,19 @@
+.video {
+    display: flex;
+    flex-direction: row;
+    gap: 1%;
+    justify-content: center;
+}
+
+.disk{
+    border: solid 50px blue;
+    border-radius: 50%;
+    background-image: url("https://i02.appmifile.com/181_operator_in/20/07/2022/089be547af3dce9aab7d3538bdc3ff72.jpg?width=398&height=320");
+}
+.disk::before{
+    content: "";
+    background-image: url("https://i02.appmifile.com/181_operator_in/20/07/2022/089be547af3dce9aab7d3538bdc3ff72.jpg?width=398&height=320");
+    
+    
+}
+

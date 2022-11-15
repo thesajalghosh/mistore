@@ -1,0 +1,13 @@
+.text{
+    display: flex;
+    flex-direction: column;
+    
+    gap: 5%;
+}
+.heading{
+    font-weight: bold;
+    font-size: large;
+}
+.tagline{
+    font-size: medium;
+}

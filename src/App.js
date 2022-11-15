@@ -11,6 +11,8 @@ import HotMenu from './components/HotMenu';
 
 import MainProduct from './components/MainProduct';
 import Video from './components/Video';
+import Presscomp from './components/Presscomp';
+import Stripe from './components/Stripe'
 
 const App = () => {
   return (
@@ -27,6 +29,12 @@ const App = () => {
       <MainProduct/>
       <StartOffer name="VIDEOS"/>
       <Video/>
+      <StartOffer name="IN THE PRESS"/>
+      <Presscomp/>
+      <Stripe/>
+      <StartOffer name="IN THE PRESS"/>
+      <StartOffer name="IN THE PRESS"/>
+      <StartOffer name="IN THE PRESS"/>
       
 
     </Router>
